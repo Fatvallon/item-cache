@@ -1,4 +1,4 @@
 {
-    "disableAutoUpdate": false,
-    "servers": ["https://raw.githubusercontent.com/Fatvallon//item-cache/master/"]
+	"disableAutoUpdate": false,
+	"servers": ["https://raw.githubusercontent.com/Fatvallon/item-cache/master/"]
 }
