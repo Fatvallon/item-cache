@@ -1,7 +1,7 @@
 {
 	"files": {
 		"index.js": "4f427ce85d91f4898b1e3f26d9e0230414058d20543f497b672cce725f49d7ea",
-		"module.json": "17805ecd665cdafe614371379068c075abefe3c0f391a8dffe26d4b4ab7af80c"
+		"module.json": "8cde413122e7899cb3ef526a56cbf734b8528816285e5f3b4b4ab920e8dab244"
 	},
 	"defs": {
 		"C_SHOW_INVEN": 1,
