@@ -1,0 +1,13 @@
+{
+	"files": {
+		"index.js": "4f427ce85d91f4898b1e3f26d9e0230414058d20543f497b672cce725f49d7ea",
+		"module.json": "17805ecd665cdafe614371379068c075abefe3c0f391a8dffe26d4b4ab7af80c"
+	},
+	"defs": {
+		"C_SHOW_INVEN": 1,
+		"C_VIEW_WARE": 2,
+		"S_INVEN": "raw",
+		"S_LOGIN": 10,
+		"S_VIEW_WARE_EX": "raw"
+	}
+}
